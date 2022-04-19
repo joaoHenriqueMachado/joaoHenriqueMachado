@@ -2,7 +2,6 @@
 
 <h3>Sobre mim / About me</h3>
 
-<hr></hr>
 
 <ul>
     <li> :house: Sou de Pato Branco, estado do Paraná, Brasil. Tenho 20 anos. / I'm from Pato Branco, state of Paraná, Brasil. I'm 20 years old;</li>
