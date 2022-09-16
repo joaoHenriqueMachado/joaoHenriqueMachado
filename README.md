@@ -7,7 +7,7 @@
     <li> :house: Sou de Pato Branco, estado do Paraná, Brasil. Tenho 21 anos. / I'm from Pato Branco, state of Paraná, Brasil. I'm 21 years old;</li>
     <li> :school: Sou estudante de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR) / I'm a computer engeneering student at UTFPR;</li>
     <li> :computer: Estou trabalhando em um projeto de iniciação científica sobre segmentação de vasos sanguíneos da retina / I'm working in a cientific initiation project about retinal blood vessel segmentation;</li>
-    <li> :open_book: Também estou aprendendo a trabalhar com desenvolvimento web e UI/UX design / I'm also learnign to work with web development and UI/UX design;</li>
+    <li> :open_book: Também estou aprendendo a trabalhar com desenvolvimento web e UI/UX design / I'm also learning to work with web development and UI/UX design;</li>
     <li> :soccer: :video_game: Meus passatempos preferidos são jogar/assistir futebol e videogames / My preferred passtimes are play/watch football (soccer if you are from the US) and play videogames.</li>
 </ul>
 
