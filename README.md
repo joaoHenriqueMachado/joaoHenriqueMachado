@@ -5,8 +5,8 @@
 
 <ul>
     <li> :house: Sou de Pato Branco, estado do Paraná, Brasil. / I'm from Pato Branco, state of Paraná, Brasil;</li>
-    <li> :school: Sou Bacharel em Engenharia de Computação pela UTFPR e atualmente estou fazendo o mestrado, também na UTFPR / I have a bachelor degree in Computer Engineering at UTFPR, where i'm also getting a Master's Degree;</li>
-    <li> :computer: Estou trabalhando em um grupo de pesquisa em biometria neonatal na UTFPR / I'm working in a research group on neonate biometrics on UTFPR;</li>
+    <li> :school: Sou Bacharel em Engenharia de Computação pela UTFPR e atualmente estou fazendo o mestrado, também na UTFPR / I have a Bachelor's Degree in Computer Engineering at UTFPR, where i'm also getting a Master's Degree;</li>
+    <li> :computer: Estou trabalhando em um grupo de pesquisa em biometria neonatal na UTFPR / I'm working in a research group on neonate biometrics at UTFPR;</li>
     <li> :open_book: Trabalho com desenvolvimento frontend com React, Typescript e estou transicionando para a carreira de back-end / I'm working with frontend development, using React, Typescript and transitioning to a backend career;</li>
     <li> :soccer: :video_game: Meus passatempos preferidos são jogar/assistir futebol e videogames / My preferred passtimes are play/watch football (soccer if you are from the US) and play videogames.</li>
 </ul>
@@ -15,7 +15,7 @@
 <hr></hr>
 
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-mail" height="40px">](mailto:joaohenriquepereiramachado@gmail.com)  &nbsp;&nbsp; [<img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="E-mail" height="40px">](https://www.instagram.com/joaohenrique.1505/) &nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="40px">]
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="40px">
 
 <h3> Linguagens e Ferramentas / Languages and Tools </h3>
 <hr></hr>
