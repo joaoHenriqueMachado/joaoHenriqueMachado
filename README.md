@@ -25,6 +25,8 @@
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/react.svg" alt="React logo" height = "40px">&nbsp;
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/spring.svg" alt="Spring logo" height = "40px">&nbsp;
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/databases/postgresql.svg" alt="React logo" height = "40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/tools/figma.png" alt="Figma logo" height = "40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/programming%20languages/c.svg" alt="C logo" height = "40px">&nbsp;
 </h5>
 
 ![João Henrique's Github stats](https://github-readme-stats.vercel.app/api?username=joaoHenriqueMachado&show_icons=true&theme=dark&hide_rank=true)
