@@ -23,6 +23,7 @@
 <h5>
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" alt="TypeScript logo" height = "40px">&nbsp;
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/react.svg" alt="React logo" height = "40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/programming%20languages/java.svg" alt="Java logo" height = "40px">&nbsp;
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/frameworks/spring.svg" alt="Spring logo" height = "40px">&nbsp;
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/databases/postgresql.svg" alt="React logo" height = "40px">&nbsp;
     <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/tools/figma.png" alt="Figma logo" height = "40px">&nbsp;
